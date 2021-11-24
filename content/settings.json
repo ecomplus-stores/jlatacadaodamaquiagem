@@ -1,24 +1,24 @@
 {
-  "store_id": 16220,
-  "name": "jlatacadaodamaquiagem",
   "domain": "jlatacadaodamaquiagem.netlify.app",
-  "short_name": "jlatacadaodamaquiagem",
-  "description": "jlatacadaodamaquiagem",
-  "primary_color": "#222831",
-  "secondary_color": "#393e46",
-  "bg_color": "#ffffff",
+  "currency_symbol": "R$",
+  "primary_color": "#ff006f",
   "theme": {
     "bootswatch": "_",
     "custom": "_"
   },
+  "bg_color": "#ffffff",
+  "repository": "ecomplus-stores/jlatacadaodamaquiagem",
   "logo": "/img/uploads/logo.png",
-  "mini_logo": "",
-  "icon": "/img/icon.png",
-  "large_icon": "/img/large-icon.png",
-  "favicon": "/img/uploads/favicon.png",
+  "name": "JL ATACADÃO DA MAQUIAGEM",
+  "short_name": "JL ATACADÃO DA MAQUIAGEM",
   "lang": "pt_br",
   "currency": "BRL",
-  "currency_symbol": "R$",
+  "mini_logo": "",
+  "favicon": "/img/uploads/favicon.png",
   "country_code": "BR",
-  "repository": "ecomplus-stores/jlatacadaodamaquiagem"
+  "secondary_color": "#0a0a0a",
+  "icon": "/img/icon.png",
+  "store_id": 16220,
+  "description": "Distribuidora de maquiagem e acessórios direto de fábrica",
+  "large_icon": "/img/large-icon.png"
 }
