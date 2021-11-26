@@ -8,7 +8,7 @@
     "text": "Parcelamos seu pedido em até 12x no Cartão de Crédito."
   },
   "exchange": {
-    "show": true,
+    "show": false,
     "text": ""
   },
   "promo": {
