@@ -1,6 +1,6 @@
 {
   "marketing_stripe": {
-    "text": "Aproveite nossos descontos de até 40%!",
+    "text": "Aproveite Nossos Preços Direto de Fábrica, Tenha 100% de LUCRO!!!",
     "link": "/promotion"
   },
   "contacts_stripe": {
@@ -19,7 +19,7 @@
   },
   "categories_list": {
     "featured": [],
-    "random": 6,
+    "random": 10,
     "full_width": false
   },
   "search_input": true
