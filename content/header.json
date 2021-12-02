@@ -10,8 +10,8 @@
         "link": "/pages/sobre-nos"
       },
       {
-        "title": "Esta loja é um PWA",
-        "link": "/posts/esta-loja-e-um-pwa"
+        "title": "Atendimento de Segunda-feira a Sábado de 8:00h até 18:00h",
+        "link": ""
       }
     ],
     "phone_wpp": true,
@@ -19,8 +19,8 @@
   },
   "categories_list": {
     "featured": [],
-    "random": 10,
-    "full_width": false
+    "random": 20,
+    "full_width": true
   },
   "search_input": true
 }
