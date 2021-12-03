@@ -29,7 +29,7 @@
     {
       "type": "dynamic-showcase",
       "load_more": true,
-      "sort": "news"
+      "sort": "lowest_price"
     },
     {
       "type": "page-title",
