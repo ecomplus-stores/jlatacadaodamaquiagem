@@ -34,16 +34,20 @@
       "sort": "sales"
     },
     {
-      "type": "page-title",
-      "title": "Distribuidora de Maquiagem e Acessórios ",
-      "description": "Produtos a preço de fábrica, o menor preço do Brasil!"
-    },
-    {
       "type": "brands-carousel",
       "limit": 10,
       "offset": 0,
       "sort": null,
       "autoplay": 7000
+    },
+    {
+      "type": "page-title",
+      "title": "Distribuidora de Maquiagem e Acessórios ",
+      "description": "Produtos a preço de fábrica, o menor preço do Brasil!"
+    },
+    {
+      "type": "breadcrumbs",
+      "enabled": true
     }
   ]
 }
