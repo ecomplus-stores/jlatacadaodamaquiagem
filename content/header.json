@@ -6,10 +6,6 @@
   "contacts_stripe": {
     "pages": [
       {
-        "title": "Sobre nós",
-        "link": "/pages/sobre-nos"
-      },
-      {
         "title": "Atendimento de Segunda-feira a Sábado de 8:00h até 18:00h",
         "link": ""
       }
