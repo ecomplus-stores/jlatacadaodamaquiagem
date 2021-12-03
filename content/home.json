@@ -32,16 +32,6 @@
       "type": "page-title",
       "title": "Distribuidora de Maquiagem e Acessórios ",
       "description": "Produtos a preço de fábrica, o menor preço do Brasil!"
-    },
-    {
-      "type": "offers-timer",
-      "max_hours": 24,
-      "start": "2021-12-03T22:54:37.196Z",
-      "end": "2021-12-04T22:54:37.223Z",
-      "notes": "oferta teste",
-      "offers": [
-        "619c2b7f0c7c727225934449"
-      ]
     }
   ]
 }
