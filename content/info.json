@@ -1,11 +1,11 @@
 {
   "shipping": {
     "show": true,
-    "text": "Enviamos para todo Brasil em até 24h."
+    "text": "Envios para todo Brasil em até 24h."
   },
   "installments": {
     "show": true,
-    "text": "Parcelamos seu pedido em até 12x no Cartão de Crédito."
+    "text": "Parcele seu pedido em até 12x no Cartão de Crédito."
   },
   "exchange": {
     "show": false,
@@ -13,6 +13,6 @@
   },
   "promo": {
     "show": true,
-    "text": "Preços de Fábrica"
+    "text": "Preços Direto de Fábrica"
   }
 }
