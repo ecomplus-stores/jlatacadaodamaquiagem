@@ -25,7 +25,8 @@
       "collection_id": "619eebfc0c7c72722599afef:categories:CAIXA:/caixa",
       "limit": 12,
       "page": 1,
-      "sort": "sales"
+      "sort": "sales",
+      "title": "ccc"
     },
     {
       "type": "page-title",
