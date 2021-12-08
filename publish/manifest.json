@@ -1,0 +1,37 @@
+{
+  "icons": [
+    {
+      "src": "/icon_512x512.7dc65d1c32991024a60bc1c8609703c4.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_384x384.f9a74566447ce433911b222284772a07.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_192x192.d80541307328af1b0dff0825a0d5a782.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_128x128.16bf99fa5c18666449effa20455f11e1.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_96x96.ffc6eab7f7f1791e56d3e4ffdee8593c.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    }
+  ],
+  "name": "JL ATACADÃO DA MAQUIAGEM",
+  "short_name": "JL ATACADÃO DA MAQUIAGEM",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "Distribuidora de maquiagem e acessórios direto de fábrica.\nTudo com o menor preço do Brasil, tudo a preço de fábrica.\nVendemos para lojistas, autônomos e empresas de diversos segmentos.\nAproveite nossas condições de vendas! ",
+  "background_color": "#ffffff",
+  "theme_color": "#ff006f"
+}
