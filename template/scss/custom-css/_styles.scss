@@ -1,4 +1,11 @@
 // Add your custom CSS here.
 .minicart__btn-cart {
+font-size: 0px;
+  &:after {
+    content: 'Finalizar Compra';
+    font-size: .875rem !important;
+  }
+}
+.minicart__btn-checkout {
 display: none !important;
 }
