@@ -7,9 +7,9 @@
       "autoplay": 9000,
       "slides": [
         {
-          "start": "2021-12-22T01:47:26.137Z",
-          "end": "2021-12-22T01:47:26.231Z",
-          "img": "/img/uploads/copia-de-abra-sua-loja-hoje-mesmo-1-.webp"
+          "start": "2022-01-10T04:25:19.945Z",
+          "end": "2022-01-12T04:25:20.033Z",
+          "img": "/img/uploads/copia-de-copia-de-abra-sua-loja-hoje-mesmo-1-.png"
         },
         {
           "start": "2021-12-04T03:29:06.124Z",
@@ -17,7 +17,8 @@
           "img": "/img/uploads/abra-sua-loja-hoje-mesmo-_1_.webp",
           "alt": "Abra sua loja hoje mesmo! "
         }
-      ]
+      ],
+      "full_width": true
     },
     {
       "type": "info-bar",
